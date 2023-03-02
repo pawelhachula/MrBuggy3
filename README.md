@@ -40,8 +40,8 @@ Below are print screens from the registration form and logic gate:
 
 - Registration form - task number 1
 
-![Registration form](https://github.com/pawelhachula/MrBuggy3/blob/master/MrBuggy3%20-%20registration%20form.png?raw=true)
+![Registration form](https://github.com/pawelhachula/MrBuggy3/blob/pictures/MrBuggy3%20-%20Registration%20form.png?raw=true)
 
 - AND Logic gate - task number 8
 
-![AND Logical gate](https://github.com/pawelhachula/MrBuggy3/blob/master/MrBuggy3%20-%20logic%20gate.png?raw=true)
+![AND Logical gate](https://github.com/pawelhachula/MrBuggy3/blob/pictures/MrBuggy3%20-%20AND%20Logic%20gate.png?raw=true)

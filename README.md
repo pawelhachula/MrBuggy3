@@ -1,5 +1,5 @@
 # **MrBuggy3**
-![MrBuggy3](https://github.com/pawelhachula/MrBuggy3/blob/master/MrBuggy3%20-%20info.png?raw=true)
+![MrBuggy3](https://github.com/pawelhachula/MrBuggy3/blob/pictures/MrBuggy3%20-%20info.png?raw=true)
 
 
 

@@ -8,6 +8,7 @@ This is my first project aimed at practical learning of testing.
 It consists in creating sample test cases for 2 tasks selected by me from the MrBuggy3 application version 1.2.0.146:
 - registration form (task no. 1 of the MrBuggy3 application),
 - AND logic gate (task no. 8 of the MrBuggy3 application)
+
 The project is created in English, while the names of fields, buttons and messages from the application remain in Polish.
 
 ## About the app
